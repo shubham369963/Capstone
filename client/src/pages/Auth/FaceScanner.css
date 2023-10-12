@@ -1,0 +1,13 @@
+.mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#faceScn{
+    border: 3px solid #1976d2;
+    border-radius: 5%;
+    height: 250px;
+    width: 300px;
+}
